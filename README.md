@@ -1,0 +1,1 @@
+# script_compare_host_ipaddress
