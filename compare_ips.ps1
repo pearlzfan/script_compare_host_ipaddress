@@ -1,3 +1,4 @@
+#Compare IPs
 # Files paths
 $csvInputFilePath = "C:\tmp\Ansible\input.csv"
 $csvOutputFilePath = "C:\tmp\Ansible\output.csv"
